@@ -1,6 +1,6 @@
 # LUCIFER Downloader
 
-Terminal-based YouTube & Instagram downloader with a glitch-style ASCII UI.
+Terminal-based YouTube & Instagram downloader.
 
 ## Features
 - YouTube
@@ -10,10 +10,6 @@ Terminal-based YouTube & Instagram downloader with a glitch-style ASCII UI.
   - Audio (MP3)
   - Reel (MP4)
   - Post images (JPG)
-- Glitch ASCII interface
-- Silent downloads (no warnings)
-- Automatic MP3 / MP4 conversion
-- Runs continuously until exit
 
 ## Folder Structure
 BY-LUCIFER/
